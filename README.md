@@ -1,2 +1,5 @@
-# subhrajp.github.io
-Flybirdie - A jS based indie game.
+# Flybirdie
+Indie game built on JavaScript.
+
+### To do:
+Develop mobile web version of the game.
